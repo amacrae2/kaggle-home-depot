@@ -6,7 +6,7 @@ create a virtualenv direcrory and a virtualenv
 
 ```
 mkdir venv
-cd vevn
+cd venv
 virtualenv home-depot
 cd ..
 source venv/home-depot/bin/activate
